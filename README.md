@@ -75,3 +75,9 @@ This project is designed for privacy-conscious environments — no external API 
 - Table understanding and structured data extraction
 - UI frontend or web chat interface (streamlit/gradio)
 - Model selection CLI flag
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/c2a7cd59-f720-4fc3-963d-58fa1f392927)
+
+![image](https://github.com/user-attachments/assets/8d22ad32-ae0e-45d2-a7df-5cca2dc68885)
+
