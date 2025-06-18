@@ -1,0 +1,11 @@
+langchain
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+PyMuPDF
+pytesseract
+Pillow
+python-dotenv
+langchain-community
+pypdf
+langchain-huggingface

@@ -1,0 +1,8 @@
+models
+docs
+share
+bin
+__pycache__
+include
+lib
+vector_store
