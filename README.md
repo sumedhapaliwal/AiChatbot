@@ -77,7 +77,8 @@ This project is designed for privacy-conscious environments — no external API 
 - Model selection CLI flag
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/c2a7cd59-f720-4fc3-963d-58fa1f392927)
+![image](https://github.com/user-attachments/assets/2f17e3ee-bbc0-434d-8e85-bbc4eef0b947)
+
 
 ![image](https://github.com/user-attachments/assets/8d22ad32-ae0e-45d2-a7df-5cca2dc68885)
 
